@@ -1,6 +1,2 @@
 # ProgPython
-ISPED M1 
-
-changement local
-
-faisonsunbug
+Personnel projects for implementing different models 
