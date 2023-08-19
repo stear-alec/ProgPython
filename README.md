@@ -1,7 +1,5 @@
 # ProgPython
-Personnel projects in machine learning, occured while reading or watching : 
+This repository contains personnel machine learning projects. These projects are a way of testing the implementation of methods learnt in the following resources. 
 
-- Deep Learning by Andrew Ng
-- 
-**📚Books: **
+### 📚Books:
 - Deep Learning Illustrated by Jon Krohn, Grant Beyleveld (summer 2023)
